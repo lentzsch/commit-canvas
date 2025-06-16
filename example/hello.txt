@@ -1,0 +1,3 @@
+Hello, World!
+This is a simple example text file that can be used to test the text-to-graph conversion.
+The text will be converted into a binary grid pattern that can be mapped to GitHub contributions. 
